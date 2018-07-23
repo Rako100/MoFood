@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "mofood:blocks/tomato_crop3"
+    }
+}

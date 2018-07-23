@@ -1,0 +1,33 @@
+//Items
+item.apple_pie.name=Apple Pie
+item.cooked_apple_pie.name=Cooked Apple Pie
+item.tortilla.name=Tortilla
+item.cooked_tortilla.name=Cooked Tortilla
+item.red_chili.name=Red Chili
+item.green_salsa.name=Green Salsa
+item.rolling_pin.name=Rolling Pin
+item.knife.name=Knife
+item.steak_taco.name=Steak Taco
+item.potato_salad.name=Potato Salad
+item.red_chili_seed.name=Red Chili Seeds
+item.tomato_seeds.name=Tomato Seeds
+item.tomato.name=Tomato
+item.red_pepper.name=Red Pepper
+item.red_pepper_seed.name=Red Pepper Seeds
+item.green_pepper.name=Green Pepper
+item.green_seeds.name=Green Pepper Seeds
+
+
+
+//AddCrop names
+tile.tomato_crop.name=Tomato Crop
+tile.green_pepper_crop=Green Pepper Crop
+
+
+//tabs
+itemGroup.mofoodtabs=Mo' Food
+
+
+//Blocks
+tile.tomato_crop.name=Tomato Crop
+//tile.beryl_ore.name=Beryl Ore

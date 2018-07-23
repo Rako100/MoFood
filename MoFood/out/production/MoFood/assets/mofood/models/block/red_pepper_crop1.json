@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "mofood:blocks/red_pepper_crop1"
+    }
+}
